@@ -2,7 +2,7 @@
   "defaultHomeserver": 0,
   "homeserverList": [
     "matrix.meowl.cc",
-    "meowl-matrix.speed.micrsky.com",
+    "meowl-matrix.speed.micrsky.com"
   ],
   "allowCustomHomeservers": true,
 
