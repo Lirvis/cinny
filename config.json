@@ -2,12 +2,7 @@
   "defaultHomeserver": 0,
   "homeserverList": [
     "matrix.meowl.cc",
-    "converser.eu",
-    "envs.net",
-    "matrix.org",
-    "monero.social",
-    "mozilla.org",
-    "xmr.se"
+    "meowl-matrix.speed.micrsky.com",
   ],
   "allowCustomHomeservers": true,
 
